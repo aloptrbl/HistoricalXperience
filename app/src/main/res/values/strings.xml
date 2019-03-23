@@ -1,0 +1,198 @@
+<resources>
+    <string name="app_name">Historical Xperience</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_name">Fullname</string>
+    <string name="btn_login">LOGIN</string>
+    <string name="btn_register">REGISTER</string>
+    <string name="btn_link_to_register">Not a member? Sign up now.</string>
+    <string name="btn_link_to_login">Already registred! Login Me.</string>
+    <string name="welcome">Welcome</string>
+    <string name="btn_logout">LOGOUT</string>
+    <string name="name">Fullname</string>
+    <string name="btn_start">Start</string>
+    <string name="btn_forget">FORGET PASSWORD</string>
+    <string name="btn_changepassword">CHANGE PASSWORD</string>
+    <string name="hint_confirmpassword">Confirm Password</string>
+    <string name="btn_cancel">CANCEL</string>
+    <string name="hint_newpassword">New Password</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="reset">RESET</string>
+    <string name="successfully">A recovery email is sent to you, see it for more detail.</string>
+    <string name="tracker_countDown">Days To Go</string>
+    <string name="delivery">Delivery :</string>
+    <string name="title_activity_insert_delivery">InsertDeliveryActivity</string>
+    <string name="insertDate">Please insert your childbirth delivery date</string>
+    <string name="insertYourDate">Your childbirth delivery date is:</string>
+    <string name="selectDate">Insert Date</string>
+    <string name="hi">Hi,</string>
+    <string name="updateDate">Please update your delivery date</string>
+    <string name="update">Update</string>
+    <string name="updatePostnatal">Postnatal care end date is:</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_week">WeekActivity</string>
+    <string name="title_activity_recipe_list">RecipeListActivity</string>
+    <string name="title_activity_recipe_detail">RecipeDetail</string>
+    <string name="prep">PREP</string>
+    <string name="cook">COOK</string>
+    <string name="total">TOTAL</string>
+    <string name="serves">SERVES</string>
+    <string name="welcome_name">Postnatal Care</string>
+    <string name="breastfeeding">Breastfeeding</string>
+
+    <string name="summary">Summary</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="directions">Directions</string>
+    <string name="title_activity_tips">TipsActivity</string>
+    <string name="title_activity_breastfeeding">BreastfeedingActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="DeleteNote">Are you Sure?</string>
+    <string name="title_activity_my_notes">MyNotes</string>
+    <string name="title_activity_display_note">DisplayNote</string>
+    <string name="title_activity_quiz">QuizActivity</string>
+
+    <string name="question1">1. I have been able to laugh and see the funny side of things</string>
+    <string name="question1_choice1">As much as I always could</string>
+    <string name="question1_choice2">Not quite so much now</string>
+    <string name="question1_choice3">Definitely not so much now</string>
+    <string name="question1_choice4">Not at all</string>
+
+    <string name="question2">2. I have looked forward with enjoyment to things</string>
+    <string name="question2_choice1">As much as I ever did</string>
+    <string name="question2_choice2">Rather less than I used to</string>
+    <string name="question2_choice3">Definitely less than I used to</string>
+    <string name="question2_choice4">Hardly at all</string>
+
+    <string name="question3">3. I have blamed myself unnecessarily when things went wrong</string>
+    <string name="question3_choice1">Yes, most of the time</string>
+    <string name="question3_choice2">Yes, some of the time</string>
+    <string name="question3_choice3">Not very often</string>
+    <string name="question3_choice4">No, ever</string>
+
+    <string name="question4">4. I have been anxious or worried for no good reason</string>
+    <string name="question4_choice1">No, not at all</string>
+    <string name="question4_choice2">Hardly ever</string>
+    <string name="question4_choice3">Yes, sometimes</string>
+    <string name="question4_choice4">Yes, very often</string>
+
+    <string name="question5">5. I have felt scared or panicky for no very good reason</string>
+    <string name="question5_choice1">Yes, quite a lot</string>
+    <string name="question5_choice2">Yes, sometimes</string>
+    <string name="question5_choice3">No, not much</string>
+    <string name="question5_choice4">No, not at all</string>
+
+    <string name="question6">6. Things have been getting on top of me</string>
+    <string name="question6_choice1">Yes, most of the time I havent been able to cope at all</string>
+    <string name="question6_choice2">Yes, sometimes I havent been coping as well as usual</string>
+    <string name="question6_choice3">No, most of the time I have coped quite well</string>
+    <string name="question6_choice4">No, I have been coping as well as ever</string>
+
+    <string name="question7">7. I have been so unhappy that I have had difficulty sleeping</string>
+    <string name="question7_choice1">Yes, most of the time</string>
+    <string name="question7_choice2">Yes, sometimes</string>
+    <string name="question7_choice3">Not very often</string>
+    <string name="question7_choice4">Not, not at all</string>
+
+    <string name="question8">8. I have felt sad or miserable</string>
+    <string name="question8_choice1">Yes, most of the time</string>
+    <string name="question8_choice2">Yes, quite often</string>
+    <string name="question8_choice3">Not very often</string>
+    <string name="question8_choice4">No, not at all</string>
+
+    <string name="question9">9. I have been so unhappy that I have been crying</string>
+    <string name="question9_choice1">Yes, most of the time</string>
+    <string name="question9_choice2">Yes, quite often</string>
+    <string name="question9_choice3">Only occasionally</string>
+    <string name="question9_choice4">No, ever</string>
+
+    <string name="question10">10. The thought of harming myself has occurred to me</string>
+    <string name="question10_choice1">Yes, quite often</string>
+    <string name="question10_choice2">Sometimes</string>
+    <string name="question10_choice3">Hardly ever</string>
+    <string name="question10_choice4">Never</string>
+
+    <string name="submit_answers">Submit Answers</string>
+
+    <string name="quiz">Quiz</string>
+
+    <string name="title">This quiz is based on the Edinburgh Postnatal Depression Scale, an app screening test healthcare providers use to determine whether a woman may have postpartum depression (PPD).</string>
+    <string name="title2">Instructions: Answer the questions based on how you have felt in the past seven days. For the best results, answer all the questions.</string>
+    <string name="title_activity_result">ResultActivity</string>
+    <string name="title_activity_symptom">SymptomActivity</string>
+
+    <string name="symptom_title">Postnatal Care Symptoms</string>
+    <string name="symptom_one">Breast engorgement</string>
+    <string name="symptom_one_description">Your breasts will fill with milk a couple of days after birth. This is a normal process, but the swelling (engorgement) can be uncomfortable. Engorgement improves with time. To ease discomfort, apply a warm or cold compress to your breasts. Sore nipples from breast-feeding usually disappear as your body adjusts. Use nipple cream to soothe cracking and pain.</string>
+
+    <string name="symptom_two">Constipation</string>
+    <string name="symptom_two_description">Eat high-fiber foods to stimulate bowel activity, and drink plenty of water. Ask your doctor about safe medications. Fiber can also relieve hemorrhoids, as well as over-the-counter creams or sitting in a sitz bath. Drinking water helps ease problems with urinating after birth. If you experience incontinence, Kegel exercises can strengthen your pelvic muscles.</string>
+
+    <string name="symptom_three">Pelvic floor changes</string>
+    <string name="symptom_three_description">The area between your rectum and vagina is known as the perineum. It stretches and often tears during birth. Sometimes a doctor will cut this area to help your labor. You can help this area recover after your delivery by doing Kegel exercises, icing the area with cold packs wrapped in towels, and sitting on a pillow.</string>
+
+    <string name="symptom_four">Uterine pain</string>
+    <string name="symptom_four_description">A shrinking uterus after giving birth can cause cramping. The pain subsides in time. Ask your doctor about safe pain medications.</string>
+
+    <string name="symptom_five">Sweating</string>
+    <string name="symptom_five_description">Hormonal changes can cause nighttime sweating after having a baby. Remove blankets from your bed to stay cool.</string>
+
+    <string name="massage">Confinement Contact</string>
+    <string name="title_activity_massage">MassageActivity</string>
+    <string name="title_activity_massage_detail">MassageDetailActivity</string>
+    <string name="title_activity_schedule">ScheduleActivity</string>
+
+    <string-array name="occurence">
+        <item>Once</item>
+        <item>Weekly</item>
+    </string-array>
+
+    <string-array name="pref_alarm_play_time_entries">
+        <item>10 seconds</item>
+        <item>30 seconds</item>
+        <item>1 minute</item>
+        <item>2 minutes</item>
+        <item>3 minutes</item>
+        <item>5 minutes</item>
+    </string-array>
+
+    <string-array name="pref_alarm_play_time_values">
+        <item>10</item>
+        <item>30</item>
+        <item>60</item>
+        <item>120</item>
+        <item>180</item>
+        <item>300</item>
+    </string-array>
+
+    <string name="btnTakePicture">Capture Image</string>
+    <string name="btnRecordVideo">Record Video</string>
+    <string name="or">(or)</string>
+    <string name="btnUploadToServer">Upload to Server</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="btn_link_to_guest">Login As Guest</string>
+    <string name="welcomeHome">Welcome to</string>
+    <string name="postnatalcare">Postnatal Care App</string>
+    <string name="postnatalcaredetail">Postnatal Care App is an android app that provide postnatal care information and guideline  for women.</string>
+    <string name="continues">Do you want to continue?</string>
+
+
+    <string name="intro">Postnatal care is the care for the mother and the infant that starts one hour after delivery of the placenta by and continues till the end of six weeks</string>
+    <string name="aimone">Check the normal physiological changes of the mother</string>
+    <string name="aimtwo">Ensure prevention, early detection and managament of complications of mother and infant</string>
+    <string name="aimthree">Provide advice on breastfeeding, maternal nutrition and infant immunization</string>
+    <string name="aimfour">Provide family planning information and services</string>
+
+    <string name="very_severely_underweight">Very Severely Underweight</string>
+    <string name="severely_underweight">Severely Underweight</string>
+    <string name="underweight">Underweight</string>
+    <string name="normal">Normal</string>
+    <string name="overweight">Overweight</string>
+    <string name="obese_class_i">Obese Class I</string>
+    <string name="obese_class_ii">Obese Class II</string>
+    <string name="obese_class_iii">Obese Class III</string>
+    <string name="hardcoded_string">| BACK |</string>
+</resources>

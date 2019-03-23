@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Warisan_Dunia_Surau" size="50.000000 37.500000" />
+    <ImageTarget name="1280px-Porta_de_Santiago_A_Famosa_3" size="50.000000 37.500000" />
+    <ImageTarget name="clockTower" size="50.000000 66.666664" />
+    <ImageTarget name="rumahmelaka1" size="50.000000 37.500000" />
+    <ImageTarget name="088" size="50.000000 37.500000" />
+    <ImageTarget name="christ-church-melaka" size="50.000000 33.333332" />
+  </Tracking>
+</QCARConfig>
